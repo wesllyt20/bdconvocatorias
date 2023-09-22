@@ -1,0 +1,280 @@
+{
+    "software": "Sistema de Convocatorias",
+    "fecha": "01/07/2023",
+    "estado": "produccion",
+    "usuarios": [
+        {
+            "_id": "mongoID",
+            "tipoDocumento": "DNI",
+            "numeroDocumento": "72555282",
+            "nanoid": "nanoid(12)",
+            "apeYnom": "Ramos Carrasco Raphael",
+            "fechaNacimiento": "08/08/1994",
+            "celular": 949563741,
+            "email": "raphael.09@hotmail.es",
+            "password": "12345678",
+            "fotoPerfil": "miFoto.png",
+            "fechaRegistro": "21/07/2023",
+            "tipoUsuario": "postulante",
+            "postulaciones": [
+                {
+                    "nombrePostulacion": "Postulacion01",
+                    "fechaPostulacion": "21/07/23 10:00 am",
+                    "estadoPostulante": "Aplicado",
+                    "anexo2a": "aplica",
+                    "anexo2b": "aplica",
+                    "anexo3": "aplica",
+                    "anexo4": "aplica"
+                },
+                {
+                    "nombrePostulacion": "Postulacion02",
+                    "fechaPostulacion": "21/07/23 10:00 am",
+                    "estadoPostulante": "Aplicado",
+                    "anexo2a": "aplica",
+                    "anexo2b": "aplica",
+                    "anexo3": "aplica",
+                    "anexo4": "aplica"
+                }
+            ],
+            "anexos": {
+                "anexo2a": {
+                    "nombres": "Raphael Murphy",
+                    "apePaterno": "Ramos",
+                    "apeMaterno": "Carrasco",
+                    "fechaNacimiento": "08/08/1994",
+                    "sexo": "hombre",
+                    "estadoCivil": "soltero",
+                    "direccion": "Jr. Francisco Bologensi 445",
+                    "urbanizacion": "cercado",
+                    "distrito": "Villa María del Tríunfo",
+                    "dni": "72555282",
+                    "ruc": "10725552829",
+                    "telefonoFijo": "01-4960427",
+                    "celular": "949563741",
+                    "correo": "wesllytramos@gmail.com",
+                    "discapacidad": "no",
+                    "licenciadoFuerzasArmadas": "no",
+                    "formacionesAcademicas": [
+                        {
+                            "nivelEducativo": "tecnico",
+                            "sitacionAcademica": "titulado",
+                            "profesion": "tecnico sfotware y sistemas",
+                            "instiEducativo": "SISE",
+                            "fechaInicio": "01/10/2017",
+                            "fechaEgreso": "20/03/2022",
+                            "sustento": "si",
+                            "cantFolios": 3
+                        },
+                        {
+                            "nivelEducativo": "universitario",
+                            "sitacionAcademica": "titulado",
+                            "profesion": "ing. Sistemas",
+                            "instiEducativo": "SISE",
+                            "fechaInicio": "01/10/2023",
+                            "fechaEgreso": "01/01/2028",
+                            "sustento": "si",
+                            "cantFolios": 2
+                        }
+                    ],
+                    "colegiaturas": [
+                        {
+                            "colegiado": "si",
+                            "habilitacion": "si",
+                            "colAdscrito": "SoftareCollege",
+                            "numColegiatura": "IT-200818",
+                            "nFolio": 3
+                        }
+                    ],
+                    "especializaciones": [
+                        {
+                            "curso": "VUEjs",
+                            "institucion": "uDemy",
+                            "denominacionCurso": "Software",
+                            "cantHoras": 580,
+                            "sustento": "si",
+                            "cantFolios": 1
+                        },
+                        {
+                            "curso": "tailwind",
+                            "institucion": "uDemy",
+                            "denominacionCurso": "CSS",
+                            "cantHoras": 80,
+                            "sustento": "si",
+                            "cantFolios": 1
+                        }
+                    ],
+                    "conocimientos": [
+                        {
+                            "denominacion": "JavaScript",
+                            "dominio": "total",
+                            "sustento": "si",
+                            "cantFolios": 1
+                        },
+                        {
+                            "denominacion": "CSS",
+                            "dominio": "total",
+                            "sustento": "si",
+                            "cantFolios": 1
+                        }
+                    ],
+                    "ofimatica": [
+                        {
+                            "programa": "Microsoft Office",
+                            "dominio": "total",
+                            "cantFolios": 1
+                        },
+                        {
+                            "programa": "postman",
+                            "dominio": "parcial",
+                            "cantFolios": 1
+                        }
+                    ],
+                    "idioma": [
+                        {
+                            "idioma": "ingles",
+                            "dominio": "avanzado",
+                            "sustento": "si",
+                            "cantFolios": 1
+                        },
+                        {
+                            "idioma": "frances",
+                            "dominio": "basico",
+                            "sustento": "si",
+                            "cantFolios": 1
+                        },
+                        {
+                            "idioma": "portugues",
+                            "dominio": "basico",
+                            "sustento": "si",
+                            "cantFolios": 1
+                        }
+                    ],
+                    "expLaboral": [
+                        {
+                            "empresa": "atonto",
+                            "uniOrganica": "ATC",
+                            "sector": "comunicaciones",
+                            "puesto": "teleoperador,",
+                            "fechaInicio": "01/01/2016",
+                            "fechaFin": "31/12/2016",
+                            "tiempoTotal": "1 año",
+                            "sustento": "si",
+                            "cantFolios": 1,
+                            "descripcionFunciones:": "Soporte tecnico a Movistar",
+                            "motivoSalida": "Fin de contrato"
+                        },
+                        {
+                            "empresa": "IEP Jesus niño",
+                            "uniOrganica": "soporte tecnico",
+                            "sector": "soporte",
+                            "puesto": "tecnico informatico,",
+                            "fechaInicio": "01/01/2018",
+                            "fechaFin": "31/12/2021",
+                            "tiempoTotal": "2 años",
+                            "sustento": "si",
+                            "cantFolios": 1,
+                            "descripcionFunciones:": "Soporte tecnico a colegio inicial-primaria",
+                            "motivoSalida": "Fin de contrato"
+                        }
+                    ],
+                    "fechaRegistroAnexo2a": "21/07/2023",
+                    "firma": "firma.png"
+                },
+                "anexo2b": {
+                    "nombres": "Raphael Murphy",
+                    "dni": "72555282",
+                    "direccion": "Jr. Francisco Bologensi 445",
+                    "fechaRegistro": "21/07/2023",
+                    "firma": "firma.png",
+                    "discapacidad": "no",
+                    "licenciadoFuerzasArmadas": "no"
+                },
+                "anexo3": {
+                    "nombres": "Raphael Murphy",
+                    "dni": "72555282",
+                    "fechaRegistro": "21/07/2023",
+                    "firma": "firma.png"
+                },
+                "anexo4": {
+                    "nombres": "Raphael Murphy",
+                    "dni": "72555282",
+                    "fechaRegistro": "21/07/2023",
+                    "referencias": [
+                        {
+                            "empresa": "atonto",
+                            "direccion": "Av. la molina s/n",
+                            "cargoPostulante": "teleoperador",
+                            "jefeInmediato": "Wendy Rosales",
+                            "movil": 999999999,
+                            "correo": "wendyrosales@gmail.com"
+                        },
+                        {
+                            "empresa": "callsouth",
+                            "direccion": "Av. la santos s/n",
+                            "cargoPostulante": "teleoperador",
+                            "jefeInmediato": "Lesly Carranza",
+                            "movil": 999999999,
+                            "correo": "lesscarrs@gmail.com"
+                        }
+                    ],
+                    "firma": "firma.png",
+                    "huella": "huella.png"
+                }
+            }
+        }
+    ],
+    "convocatoria": [
+        {
+            "_id": "mongoID",
+            "nombre": "convocatoria profeciona",
+            "userPublicador": "id_user cargo ADM",
+            "tipoConvocatoria": "profecional",
+            "descripcion": "descripcion de convocatoria",
+            "requisitos": "tecnico profecional",
+            "bases": "bases.pdf",
+            "subvencion": 1200,
+            "fechaInicio": "21/07/2023",
+            "fechaFin": "21/08/2023",
+            "estadoConvocatoria": "activa",
+            "comunicados": [
+                {
+                    "nombre": "comicado1",
+                    "fechaInicio": "21/07/2023",
+                    "fechaFin": "21/08/2023"
+                }
+            ],
+            "resultados": [
+                {
+                    "nombre": "Resultado Ficha de Postulación y Curriculum",
+                    "tipo": "curricular",
+                    "fechaInicio": "21/07/2023",
+                    "fechaFin": "21/08/2023"
+                },
+                {
+                    "nombre": "Evaluación de Conocimiento",
+                    "tipo": "conocimiento",
+                    "fechaInicio": "21/07/2023",
+                    "fechaFin": "21/08/2023"
+                },
+                {
+                    "nombre": "Resultado final",
+                    "tipo": "final",
+                    "fechaInicio": "21/07/2023",
+                    "fechaFin": "21/08/2023"
+                }
+            ],
+            "postulantes": [
+                {
+                    "uid": "user_id",
+                    "fechaPostulacion": "22/07/2023",
+                    "estado": "aplicado"
+                },
+                {
+                    "uid": "user_id",
+                    "fechaPostulacion": "22/07/2023",
+                    "estado": "desaprobado"
+                }
+            ]
+        }
+    ]
+}

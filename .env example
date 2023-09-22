@@ -1,0 +1,7 @@
+URL_MONGO= mongodb://localhost:27017/db_convocatoriaslog
+JWT_SECRET= SflKxwRJSMeKKF2QT4fwp
+JWT_REFRESH = RaphaelMurphy
+MODO= developer
+ORIGIN1 =  http://localhost:5173
+PORT = 5001
+AUTHMSG_TWOTOKEN = budeakvtirkhdxios

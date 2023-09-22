@@ -1,0 +1,5 @@
+node_modules
+.env
+
+#sudo service mongod start
+#sudo service mongod status
